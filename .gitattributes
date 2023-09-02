@@ -1,1 +1,2 @@
 file01.txt filter=lfs diff=lfs merge=lfs -text lockable
+file02.txt filter=lfs diff=lfs merge=lfs -text lockable
